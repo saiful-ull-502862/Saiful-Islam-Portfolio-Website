@@ -33,7 +33,7 @@ const Footer = () => {
               Email
             </a>
             <a
-              href="https://linkedin.com/in/your-profilehttps://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+              href="https://www.linkedin.com/in/saiful-islam-22b680115/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-blue-400 transition-colors duration-200"
