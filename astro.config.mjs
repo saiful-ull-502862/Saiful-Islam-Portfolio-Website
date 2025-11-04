@@ -5,6 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://astrofy-template.netlify.app',
+  site: 'https://saiful-ull-502862.github.io',
+  base: '/Saiful-Islam-Portfolio-Website',
   integrations: [mdx(), sitemap(), tailwind()]
 });
